@@ -1,6 +1,6 @@
-# Hi, I’m Suad 👋
+# Hi, I’m Sue 👋
 
-I build CRM systems and automation workflows focused on improving pipeline visibility, reducing manual work, and preventing lost revenue.
+I build CRM systems and automation workflows focused on improving pipeline visibility, reducing manual work and preventing lost revenue.
 
 ## 🔧 What I Work On
 - CRM systems (Airtable & Salesforce)
@@ -12,7 +12,7 @@ I build CRM systems and automation workflows focused on improving pipeline visib
 ## 🚀 Featured Project
 ### End-to-End CRM System with Automation & SLA Tracking
 
-Built a fully functional B2B CRM system using Airtable with automation workflows, relational data structures, dashboards, and SLA monitoring.
+Built a fully functional B2B CRM system using Airtable with automation workflows, relational data structures, dashboards and SLA monitoring.
 
 👉 [View Project](https://github.com/sueopswork/logistics-crm-system)
 
