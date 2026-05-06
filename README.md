@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Suad 👋
 
-<!--
-**sueopswork/sueopswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build CRM systems and automation workflows focused on improving pipeline visibility, reducing manual work, and preventing lost revenue.
 
-Here are some ideas to get you started:
+## 🔧 What I Work On
+- CRM systems (Airtable & Salesforce)
+- Workflow automation
+- SLA tracking & reporting
+- Sales pipeline structuring
+- Operational process improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### End-to-End CRM System with Automation & SLA Tracking
+
+Built a fully functional B2B CRM system using Airtable with automation workflows, relational data structures, dashboards, and SLA monitoring.
+
+👉 [View Project](https://github.com/sueopswork/logistics-crm-system)
+
+## 📊 Expanding Into
+- SQL
+- Power BI
+- APIs & advanced automation
